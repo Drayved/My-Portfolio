@@ -57,7 +57,7 @@
 html {
     font-size: 62.5%; /* (16/10)*100 = 62.5% => 1rem = 10px */
     box-sizing: border-box;
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
 }
 
 @media(max-width: 1000px) {
@@ -494,6 +494,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .about__photo{
     border-radius: 8px;
+    height: 700px;
 }
 
 
