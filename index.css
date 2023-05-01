@@ -490,6 +490,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .work__image-box {
     margin-bottom: var(--gutter-normal);
+    
 }
 
 .about__photo{
