@@ -26,3 +26,7 @@ Welcome to my portfolio! This web application showcases my skills, projects, and
 
 You can access my portfolio [here](https://davids-frontend-portfolio.netlify.app).
 
+## Screenshots
+
+![Screenshot 1](/screenshots/screenshot1.JPG)
+![Screenshot 2](/screenshots/screenshot2.JPG)
