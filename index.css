@@ -546,6 +546,7 @@ body:not(.user-is-tabbing) a:focus {
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
+    
 }
 
 @media(max-width: 900px) {
@@ -568,6 +569,22 @@ body:not(.user-is-tabbing) a:focus {
         flex: 1;
         margin: 0 var(--gutter-huge) 0 0;
     }
+}
+
+.skills{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.skill-list{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-bottom: 60px
+}
+
+.about-me-text{
+    margin-bottom: 60px
 }
 
 /* --------------------------------------- */
